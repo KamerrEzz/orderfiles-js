@@ -1,0 +1,14 @@
+{
+  "name": "fileorder",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "KamerrEzz <proyects@kamerrezz.com> (https://kamerrezz.com)",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "glob": "^7.2.0"
+  },
+  "bin": "./index.js"
+}
